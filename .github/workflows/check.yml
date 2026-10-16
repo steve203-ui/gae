@@ -68,4 +68,4 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Show site URL
-        run: 'echo "site: https://steve203-ui.github.io/gate/ (deploy outcome: ${{ steps.deployment.outcome }})"'
+        run: 'echo "site: https://steve203-ui.github.io/gae/ (deploy outcome: ${{ steps.deployment.outcome }})"'
